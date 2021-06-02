@@ -1,6 +1,6 @@
 # PacketCaptureModifier
 This application was written in C++ with the PCAP Framework and captures network packets from the Data Link Layer. It manually calculates checksum of IP/TCP/UDP and is capable to resend unencrypted modified packets.
-The PCM can capture and display the traffic directly on the console, or offers the possibility to save the traffic into a file in a straightforward format, which can be easily changed.
+The PCM can capture and display the traffic directly on the console, or offers the possibility to save the traffic into a file in HEX format.
 
 Requirements:
 WinPCAP SDK needs to be installed in order to develop and run this application.
